@@ -1,4 +1,4 @@
-# Blockchain
+###### Blockchain
  
 created by 김 명 준 
  코드원칙 : 직관적이고 코딩을 조금만 할 수 있어도 나만의 블록체인 생성 및 구조파악에 도움이 되는 소스를 지향한다!
@@ -11,7 +11,7 @@ created by 김 명 준
 
 # javascript
  - file name : mjzzang.js
- - tool : vs (visual studio)
+ - tool : vs (visual studio)  [download link]: https://code.visualstudio.com/ 
  - 작업내용
      * 블록체인 구성
      * 작업증명
