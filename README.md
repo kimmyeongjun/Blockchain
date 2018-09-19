@@ -10,7 +10,7 @@
 
 ### javascript
  - file name : mjzzang.js
- - tool : vs (visual studio)  [download link]: https://code.visualstudio.com/ 
+ - tool : vs (visual studio code)  [download link]: https://code.visualstudio.com/ 
  - 작업내용
      * 블록체인 구성
      * 작업증명
@@ -21,5 +21,5 @@
 - 작업내용
      * 블록체인 구성
      * 작업증명
-     * 보상
+
 
