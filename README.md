@@ -10,9 +10,11 @@
 
 ### javascript 설치 및 실행 
  - file name : mjzzang.js
- - tool : vs (visual studio code)     [다운로드 link] - https://code.visualstudio.com/ 
- - 실행방법
- 
+ - tool 
+    * vs (visual studio code)     [다운로드 link] - https://code.visualstudio.com/ 
+    * npm설치 : sudo npm install npm -g
+ - 실행방법  
+    * node mjzzang
  - 작업내용
      * 블록체인 구성
      * 작업증명
