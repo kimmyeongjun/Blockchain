@@ -123,13 +123,14 @@ class Blockchain {
       const previousBlock = this.chain[i-1];
       const currentBlock = this.chain[i];
 
-      if(currentBlock.hash !== currentBlock.calculateHash()){
+      if(currentBlock.hash !== currentBlock.computeHash()){
         return false;
       }
       if(currentBlock.previousHash !== previousBlock.hash){
         return false;
       }
     }
+
     return true;
   }
 }
