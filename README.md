@@ -8,16 +8,21 @@
 
 
 
-### javascript
+### javascript 설치 및 실행 
  - file name : mjzzang.js
- - tool : vs (visual studio code)  [download link]: https://code.visualstudio.com/ 
+ - tool : vs (visual studio code)     [다운로드 link] - https://code.visualstudio.com/ 
+ - 실행방법
+ 
  - 작업내용
      * 블록체인 구성
      * 작업증명
      * 보상
+  
 
 
 #### java
+- 실행방법
+  main.java ->run 
 - 작업내용
      * 블록체인 구성
      * 작업증명
